@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\muska\bookapi\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2258791429.index
+4269253064.index
+3124080551.index
+1996326738.index
+3121572067.index
+2714880186.index
+3435648363.index

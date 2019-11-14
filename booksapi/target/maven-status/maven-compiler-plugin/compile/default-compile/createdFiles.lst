@@ -1,0 +1,10 @@
+com\test\spring\model\Book.class
+com\test\spring\service\BookService.class
+com\test\spring\controller\BookController.class
+com\test\spring\config\WebConfig.class
+com\test\spring\service\BookServiceImp.class
+com\test\spring\dao\BookDao.class
+com\test\spring\config\AppConfig.class
+com\test\spring\dao\BookDaoImp.class
+com\test\spring\exception\EntityNotFound.class
+com\test\spring\config\MyWebAppInitializer.class
